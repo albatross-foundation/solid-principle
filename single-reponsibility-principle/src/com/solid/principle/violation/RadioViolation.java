@@ -4,7 +4,7 @@ package com.solid.principle.violation;
  * Chúng ta có một lớp Radio thực hiện chức năng: BẬT, TẮT, TĂNG GIẢM âm lượng.
  *
  * */
-public class Radio {
+public class RadioViolation {
 
     public static final int VOLUME_DEFAULT = 50;
     public static final int VOLUME_MAX = 100;
