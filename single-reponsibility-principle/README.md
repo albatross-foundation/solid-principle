@@ -9,3 +9,4 @@
 - Ví dụ: Chúng ta có 1 lớp khoảng 1000 dòng code viết cách đây nhiều năm, đã chảy ổn định.
 Vào một ngày vì một lý do nào đó chúng ta vào thay đổi lớp đó, dó vậy chúng ta không thể đảm bảo các thành phần khác trong lớp không bị ảnh hưởng.
 Do vậy chúng ta lại phải mất công test lại toàn bộ lớp đó 1 lần nữa.
+### Class diagram
