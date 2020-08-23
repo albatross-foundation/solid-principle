@@ -8,6 +8,7 @@ thì hành vi của F không thay đổi khi thay thế các đối tượng c�
 và phương thức của lớp khác và quan trọng hơn là có các hành vi như lớp cha của nó.
 - Quan hệ IS A thường được sử dụng để xác định kế thừa. Lớp con kế thừa lớp cha khi lớp con có quan hệ IS A với lớp cha.
 Có nghĩa là lớp con là trường hợp đặc biệt của lớp cha.
+- Chúng ta phải bảo đảm rằng, khi một lớp con kế thừa từ một lớp khác, nó sẽ không làm thay đổi hành vi của lớp đó.
 - Ví dụ: Hình vuông là 1 trường hợp đặc biệt của hình chữ nhật.
 ### Class diagram
 ![Optional Text](../open-closed-principle/OPR.png)
